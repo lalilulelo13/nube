@@ -440,6 +440,7 @@
   color: #000;
   background-color: rgba(0, 0, 0, 0);
   border: 2px solid #e4e4e4;
+  margin-top: -5px;
 }
 
 .button-3.dark-outline:hover {
@@ -519,9 +520,9 @@
   margin-top: 20px;
   margin-bottom: 20px;
   font-family: Gobold, sans-serif;
-  font-size: 79px;
+  font-size: 70px;
   font-weight: 700;
-  line-height: 40px;
+  line-height: 85px;
 }
 
 .white-pricing-column {
